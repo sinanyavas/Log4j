@@ -1,0 +1,9 @@
+[DEBUG] 2019-02-01 16:18:40.774 [main] Demo - I am debugging
+[INFO ] 2019-02-01 16:18:40.797 [main] Demo - object is present
+[ERROR] 2019-02-01 16:18:40.798 [main] Demo - Object not found
+[FATAL] 2019-02-01 16:18:40.798 [main] Demo - this is fatal
+[DEBUG] 2019-02-01 16:19:32.138 [main] Demo - I am debugging
+[INFO ] 2019-02-01 16:19:32.152 [main] Demo - object is present
+[ERROR] 2019-02-01 16:19:32.154 [main] Demo - Object not found
+[FATAL] 2019-02-01 16:19:32.166 [main] Demo - this is fatal
+[DEBUG] 2019-02-01 18:22:22.573 [main] Demo - I am debugging

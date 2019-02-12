@@ -1,0 +1,40 @@
+[INFO ] 2019-02-01 18:22:22.578 [main] Demo - object is present
+[ERROR] 2019-02-01 18:22:22.588 [main] Demo - Object not found
+[FATAL] 2019-02-01 18:22:22.588 [main] Demo - this is fatal
+[DEBUG] 2019-02-01 18:58:02.680 [main] Demo - I am debugging
+[INFO ] 2019-02-01 18:58:02.688 [main] Demo - object is present
+[ERROR] 2019-02-01 18:58:02.688 [main] Demo - Object not found
+[FATAL] 2019-02-01 18:58:02.689 [main] Demo - this is fatal
+[DEBUG] 2019-02-01 18:59:49.072 [main] Demo - I am debugging
+[INFO ] 2019-02-01 18:59:49.080 [main] Demo - object is present
+[ERROR] 2019-02-01 18:59:49.080 [main] Demo - Object not found
+[FATAL] 2019-02-01 18:59:49.080 [main] Demo - this is fatal
+[DEBUG] 2019-02-01 19:00:06.306 [main] Demo - I am debugging
+[INFO ] 2019-02-01 19:00:06.313 [main] Demo - object is present
+[ERROR] 2019-02-01 19:00:06.313 [main] Demo - Object not found
+[FATAL] 2019-02-01 19:00:06.313 [main] Demo - this is fatal
+[DEBUG] 2019-02-01 19:00:23.286 [main] Demo - I am debugging
+[INFO ] 2019-02-01 19:00:23.296 [main] Demo - object is present
+[ERROR] 2019-02-01 19:00:23.297 [main] Demo - Object not found
+[FATAL] 2019-02-01 19:00:23.297 [main] Demo - this is fatal
+[DEBUG] 2019-02-01 19:00:42.924 [main] Demo - I am debugging
+[INFO ] 2019-02-01 19:00:42.932 [main] Demo - object is present
+[ERROR] 2019-02-01 19:00:42.934 [main] Demo - Object not found
+[FATAL] 2019-02-01 19:00:42.935 [main] Demo - this is fatal
+[DEBUG] 2019-02-01 19:01:39.159 [main] Demo - I am debugging
+[INFO ] 2019-02-01 19:01:39.173 [main] Demo - object is present
+[ERROR] 2019-02-01 19:01:39.173 [main] Demo - Object not found
+[FATAL] 2019-02-01 19:01:39.174 [main] Demo - this is fatal
+[DEBUG] 2019-02-01 20:01:49.718 [main] Demo - I am debugging
+[INFO ] 2019-02-01 20:01:49.731 [main] Demo - object is present
+[ERROR] 2019-02-01 20:01:49.731 [main] Demo - Object not found
+[FATAL] 2019-02-01 20:01:49.732 [main] Demo - this is fatal
+[INFO ] 2019-02-01 22:50:51.804 [main] base - driver initialized
+[INFO ] 2019-02-01 22:50:59.438 [main] base - browser hit the url
+[INFO ] 2019-02-01 22:51:00.114 [main] base - title validated
+[INFO ] 2019-02-01 22:51:53.645 [main] base - driver initialized
+[INFO ] 2019-02-01 22:52:00.754 [main] base - browser hit the url
+[INFO ] 2019-02-01 22:52:01.296 [main] base - title validated
+[INFO ] 2019-02-01 23:15:24.151 [main] base - driver initialized
+[INFO ] 2019-02-01 23:15:32.352 [main] base - browser hit the url
+[INFO ] 2019-02-01 23:15:32.870 [main] base - title validated
